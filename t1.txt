@@ -3,3 +3,4 @@ text2
 Master text4
 Master text5
 Master text6
+Master2 text7
